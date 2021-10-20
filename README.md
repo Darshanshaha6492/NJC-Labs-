@@ -4,6 +4,7 @@
 # Below is the Code from Command Prompt
 
 Microsoft Windows [Version 10.0.19043.1288]
+
 (c) Microsoft Corporation. All rights reserved.
 
 C:\Users\eZee>sqlite3 darshan.db                  # Creating new Database
